@@ -38,6 +38,24 @@ namespace Fuvar2
             Console.WriteLine($"4 feladat: {fuvarDb} fuvar alatt {bevetel}$");
 
             //5 feladat
+            Console.WriteLine($"5. feladat: ");
+            Dictionary<string, int> fizModDb = new Dictionary<string, int>();
+            foreach (Fuvar fuvar in fuvarok)
+            {
+                string kulcs = fuvar.FitesesiMod;
+                if (fizModDb.ContainsKey(kulcs))
+                {
+                    fizModDb[kulcs]++;
+                }
+                else
+                {
+                    fizModDb.Add(kulcs, 1);
+                }
+            }
+            foreach (KeyValuePair<string, int> item in fizModDb)
+            {
+                Console.WriteLine($"\t{item.Key}: {item.Value} fuvar");
+            }
 
             Console.ReadLine();
         }
