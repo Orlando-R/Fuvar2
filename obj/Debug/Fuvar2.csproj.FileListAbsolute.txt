@@ -1,0 +1,7 @@
+C:\Users\RL\source\repos\Fuvar2\Fuvar2\obj\Debug\Fuvar2.csprojAssemblyReference.cache
+C:\Users\RL\source\repos\Fuvar2\Fuvar2\obj\Debug\Fuvar2.csproj.CoreCompileInputs.cache
+C:\Users\RL\source\repos\Fuvar2\Fuvar2\bin\Debug\Fuvar2.exe.config
+C:\Users\RL\source\repos\Fuvar2\Fuvar2\bin\Debug\Fuvar2.exe
+C:\Users\RL\source\repos\Fuvar2\Fuvar2\bin\Debug\Fuvar2.pdb
+C:\Users\RL\source\repos\Fuvar2\Fuvar2\obj\Debug\Fuvar2.exe
+C:\Users\RL\source\repos\Fuvar2\Fuvar2\obj\Debug\Fuvar2.pdb
